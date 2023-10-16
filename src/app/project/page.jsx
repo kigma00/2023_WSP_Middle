@@ -110,7 +110,7 @@ const ProjectPage = () => {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Connect G0r4ni8's Blog page
+            Connect G0r4ni8&apos;s Blog page
           </p>
         </a>
 
@@ -127,7 +127,7 @@ const ProjectPage = () => {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Connect G0r4ni8's github page
+            Connect G0r4ni8&apos;s github page
           </p>
         </a>
       </div>

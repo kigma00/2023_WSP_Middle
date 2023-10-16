@@ -73,13 +73,13 @@ const ProfilePage = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <h2 className={`mb-3 text-2xl font-semibold`}>
-            G0r4ni8{' '}
+          <h2 className="mb-3 text-2xl font-semibold">
+            G0r4ni8
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
-          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+          <p className="m-0 max-w-[30ch] text-sm opacity-50">
             Introducing G0r4ni8
           </p>
         </a>
@@ -90,13 +90,13 @@ const ProfilePage = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <h2 className={`mb-3 text-2xl font-semibold`}>
-            Project Team{' '}
+          <h2 className="mb-3 text-2xl font-semibold">
+            Project Team
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
-          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+          <p className="m-0 max-w-[30ch] text-sm opacity-50">
             Introducing our Project Team
           </p>
         </a>
@@ -107,14 +107,14 @@ const ProfilePage = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <h2 className={`mb-3 text-2xl font-semibold`}>
+          <h2 className="mb-3 text-2xl font-semibold">
             Blog{' '}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
-          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Connect G0r4ni8's Blog page
+          <p className="m-0 max-w-30ch text-sm opacity-50">
+            Connect G0r4ni8&apos;s Blog page
           </p>
         </a>
 
@@ -124,14 +124,14 @@ const ProfilePage = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <h2 className={`mb-3 text-2xl font-semibold`}>
-            Github{' '}
+          <h2 className="mb-3 text-2xl font-semibold">
+            Github
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
-          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Connect G0r4ni8's github page
+          <p className="m-0 max-w-30ch text-sm opacity-50">
+            Connect G0r4ni8&apos;s github page
           </p>
         </a>
       </div>
